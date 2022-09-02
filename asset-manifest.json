@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Timer-Live-React/static/css/main.120cb577.css",
+    "main.js": "/Timer-Live-React/static/js/main.d9bb3c01.js",
+    "static/js/787.8e9e615b.chunk.js": "/Timer-Live-React/static/js/787.8e9e615b.chunk.js",
+    "index.html": "/Timer-Live-React/index.html",
+    "main.120cb577.css.map": "/Timer-Live-React/static/css/main.120cb577.css.map",
+    "main.d9bb3c01.js.map": "/Timer-Live-React/static/js/main.d9bb3c01.js.map",
+    "787.8e9e615b.chunk.js.map": "/Timer-Live-React/static/js/787.8e9e615b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.120cb577.css",
+    "static/js/main.d9bb3c01.js"
+  ]
+}
